@@ -39,7 +39,7 @@ by using direnv, it is possible to set the envrionment variables set per directo
 
 since we've made a separate directory for secondary account, let's set the envrionment there.
 
-make your `~/Secondary/.direnv` are filled like this
+make your `~/Secondary/.envrc` are filled like this
 
 ```
 export GIT_AUTHOR_NAME=secondary
